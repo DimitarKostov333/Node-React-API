@@ -1,0 +1,11 @@
+{
+  "name": "optimi",
+  "version": "1.0.0",
+  "description": "Optimi App Installer",
+  "scripts": {
+    "build-apps": "cd server && npm install && cd .. && cd client && npm install"
+  },
+  "keywords": [],
+  "author": "Dimitar Kostov",
+  "license": "ISC"
+}

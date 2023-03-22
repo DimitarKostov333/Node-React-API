@@ -1,5 +1,4 @@
-// database related modules
+// Data related module
 module.exports = {
-    databaseConnection: require('./connection'),
-    CustomerRepository: require('./repository/customer-repository'),
+    data: require('./data.js'),
 }

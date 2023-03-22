@@ -1,4 +1,4 @@
-[{
+const Data = [{
         "id": 736,
         "name": "Systems",
         "image": {
@@ -67,5 +67,7 @@
             }
         ],
         "url": "https://wwww.itschools.co.za/tools"
-    }]
+    }];
+
+module.exports = Data;
 
